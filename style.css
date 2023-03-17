@@ -1,0 +1,48 @@
+div{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    line-height: 50px;
+}
+.mybio{
+    background-color: darkgray;
+    pointer: cursor;
+
+}
+.mybio:hover{
+    background-color: red;
+}
+
+
+.photo{
+    background-color: blue;
+    margin-left: 800px;
+    margin-top: -200px;
+    pointer: cursor;
+}
+.photo:hover{
+background-color: chartreuse;
+}
+.educ{
+    background-color: grey;
+    margin-left: 400px;
+    margin-top: -2px;
+}
+.educ:hover{
+    background-color: green;
+}
+.hobbies{
+    background-color: cornflowerblue;
+}
+.hobbies:hover{
+    background-color: cyan;
+}
+.contact
+{
+    background-color: burlywood; 
+    margin-left: 800px;
+    margin-top: -200px;
+}
+.contact:hover{
+    background-color: ghostwhite;
+}
